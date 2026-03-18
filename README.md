@@ -65,13 +65,13 @@ Optimized for high-throughput data streaming with real-time log surfacing.
 
 ```bash
 # Clone the repository
-git clone https://github.com/dockerariy/ddos.git
+git clone https://github.com/dockerariy/L-O-R-I-S-O-V-E-R-L-O-A-D-v3.1.git
 
 # Navigate into the directory
 cd ddos
 
 # Run it — that's literally it
-python3 loris.py
+python ddos.py
 ```
 
 *synchronization, the following environment specifications are recommended:

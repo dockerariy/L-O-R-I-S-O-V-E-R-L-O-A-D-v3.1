@@ -68,7 +68,7 @@ Optimized for high-throughput data streaming with real-time log surfacing.
 git clone https://github.com/dockerariy/L-O-R-I-S-O-V-E-R-L-O-A-D-v3.1.git
 
 # Navigate into the directory
-cd ddos
+cd L-O-R-I-S-O-V-E-R-L-O-A-D-v3.1
 
 # Run it — that's literally it
 python ddos.py

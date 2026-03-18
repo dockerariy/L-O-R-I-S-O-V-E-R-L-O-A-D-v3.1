@@ -17,7 +17,7 @@
 
 # `DDOS — Terminal Simulator v3.1`
 
-> *"The terminal never lies. The operator might."*
+> *"Hack to learn,Not to harm."*
 
 ![Python](https://img.shields.io/badge/Python-3.x-green?style=flat-square&logo=python&logoColor=white&labelColor=000)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-cyan?style=flat-square&labelColor=000)
